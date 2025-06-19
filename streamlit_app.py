@@ -9,7 +9,7 @@ STARTWERT = 100000
 SCHWELLENWERT_DRAWDOWN = -5.0
 RAPIDAPI_KEY = "ac1c9412ffmsh11cf86182f0eec4p1e33b7jsn499839f65f6e"
 RAPIDAPI_HOST = "yahoo-finance-real-time1.p.rapidapi.com"
-CSV_PATH = "watchlist.csv"
+CSV_PATH = "https://github.com/Scarrabrauer/getrich/blob/main/watchlist.csv"
 
 st.set_page_config(page_title="money_double_dash PRO", layout="wide")
 st.title("💹 money_double_dash PRO – CSV-Version")
